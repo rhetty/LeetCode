@@ -1,3 +1,7 @@
+/**
+Implement atoi to convert a string to an integer.
+ */
+
 class Solution {
   func myAtoi(_ str: String) -> Int {
     if str.isEmpty {
