@@ -1,2 +1,2 @@
 # LeetCode
-Solve problems on LeetCode with Swift.
+Solve problems on LeetCode.
